@@ -20,3 +20,15 @@ This project presents an interactive Excel dashboard analyzing physical activity
 ### Files Included
 - Excel file: Interactive dashboard and analysis
 - PDF file: Final one-page dashboard export
+
+
+## Dashboard Preview (PDF)
+The complete Power BI dashboard is included as a PDF for quick review.
+
+📄 Physical_Activity_Insights_Dashboard.pdf
+
+## Power BI File
+The interactive Power BI file (.pbix) is included for deeper exploration of:
+- Activity status by group, age range, region
+- Baseline vs published comparison
+- KPI cards and activity gap analysis
